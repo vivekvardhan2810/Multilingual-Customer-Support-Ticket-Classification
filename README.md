@@ -63,9 +63,9 @@ The project is organized into the following steps:
 
 - Generating classification reports to evaluate model performance.
 
-## Getting Started
+# Getting Started
 
-**Prerequisites**
+## Prerequisites
 
 Ensure you have the following Python libraries installed:
 

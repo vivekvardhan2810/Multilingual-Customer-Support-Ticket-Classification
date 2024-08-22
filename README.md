@@ -84,10 +84,12 @@ Ensure you have the following Python libraries installed:
 
 Install these packages using pip if they are not already installed:
 
-bash
-Copy code
-pip install pandas matplotlib seaborn scikit-learn keras xgboost
-Running the Code
+```
+$ pip install pandas matplotlib seaborn scikit-learn keras xgboost
+```
+
+## Running the Code
+
 Load the Dataset: Place your dataset in the specified path or update the path in the code.
 Run the EDA: Execute the EDA section to understand the dataset.
 Preprocess the Data: Run the preprocessing steps to prepare the data for model training.

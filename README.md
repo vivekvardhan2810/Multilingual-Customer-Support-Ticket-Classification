@@ -89,16 +89,20 @@ $ pip install pandas matplotlib seaborn scikit-learn keras xgboost
 
 ## Running the Code
 
-Load the Dataset: Place your dataset in the specified path or update the path in the code.
-Run the EDA: Execute the EDA section to understand the dataset.
-Preprocess the Data: Run the preprocessing steps to prepare the data for model training.
-Train Models: Execute the code for each model to train and evaluate them.
-Prediction: Use the trained models to predict and evaluate on new data.
-Example
+- **Load the Dataset**: Place your dataset in the specified path or update the path in the code.
+
+- **Run the EDA**: Execute the EDA section to understand the dataset.
+
+- **Preprocess the Data**: Run the preprocessing steps to prepare the data for model training.
+
+- **Train Models**: Execute the code for each model to train and evaluate them.
+
+- **Prediction**: Use the trained models to predict and evaluate on new data.
+
+## Example
+
 An example of running the LSTM model:
 
-python
-Copy code
 # Define the LSTM model
 model = Sequential()
 model.add(Embedding(input_dim=5000, output_dim=128, input_length=maxlen))

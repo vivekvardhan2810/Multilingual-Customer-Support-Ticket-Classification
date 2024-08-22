@@ -103,7 +103,9 @@ $ pip install pandas matplotlib seaborn scikit-learn keras xgboost
 
 An example of running the LSTM model:
 
+```
 # Define the LSTM model
+
 model = Sequential()
 model.add(Embedding(input_dim=5000, output_dim=128, input_length=maxlen))
 model.add(SpatialDropout1D(0.2))
@@ -113,15 +115,22 @@ model.add(Dense(len(label_encoder.classes_), activation='softmax'))
 # Compile and train the model
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 history = model.fit(X_train_pad, y_train_encoded, epochs=5, batch_size=64, validation_data=(X_test_pad, y_test_encoded))
-Results
+
+```
+
+## Results
+
 After training, you can compare the performance of different models using the classification reports and accuracy scores. The best-performing model can be selected based on these results.
 
-Contributing
+## Contributing
+
 If you wish to contribute to this project, feel free to fork the repository and submit a pull request with your improvements.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
+
 The project was inspired by the need to optimize multilingual customer support using machine learning techniques.
-Special thanks to the authors and maintainers of the Python libraries used in this project.
+
+Special credits to the dataset Provider: 

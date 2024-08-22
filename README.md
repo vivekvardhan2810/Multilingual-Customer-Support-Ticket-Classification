@@ -22,7 +22,8 @@ The dataset provided contains the following fields:
 
 - **'full_email_text'**: The complete email content.
 
-Project Workflow
+## Project Workflow
+
 The project is organized into the following steps:
 
 1. Exploratory Data Analysis (EDA)

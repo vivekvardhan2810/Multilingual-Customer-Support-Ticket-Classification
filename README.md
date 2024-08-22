@@ -133,4 +133,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 The project was inspired by the need to optimize multilingual customer support using machine learning techniques.
 
-Special credits to the dataset Provider: 
+Special credits to the dataset Provider: https://www.kaggle.com/datasets/tobiasbueck/email-ticket-text-german-classification

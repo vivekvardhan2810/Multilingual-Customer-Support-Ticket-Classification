@@ -26,20 +26,20 @@ The dataset provided contains the following fields:
 
 The project is organized into the following steps:
 
-1. **Exploratory Data Analysis (EDA)**:
+## 1. Exploratory Data Analysis (EDA)
 
 - Loading and understanding the dataset.
   
 - Visualizing the distribution of tickets across various categories such as department, priority, and language.
 
-2. **Data Preprocessing**:
+## 2. Data Preprocessing
 
 - **Text Vectorization**: Converting text data into numerical format using techniques like TF-IDF and tokenization.
 
 - **Label Encoding**: Encoding the target variable (department) for classification models.
 
 
-3. **Model Training and Evaluation**:
+## 3. Model Training and Evaluation
 
 - Implementing and training the following models:
 
@@ -57,7 +57,7 @@ The project is organized into the following steps:
 
 - **Model Evaluation**: Assessing the models using metrics such as accuracy and classification reports.
 
-4. **Prediction**:
+## 4. Prediction
 
 - Predicting the department for new customer support tickets using the trained models.
 

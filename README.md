@@ -24,7 +24,7 @@ The dataset provided contains the following fields:
 
 ## Project Workflow
 
-- The project is organized into the following steps:
+The project is organized into the following steps:
 
 1. **Exploratory Data Analysis (EDA)**:
 
@@ -70,12 +70,18 @@ Implementing and training the following models:
 
 Ensure you have the following Python libraries installed:
 
-pandas
-matplotlib
-seaborn
-scikit-learn
-keras
-xgboost
+- **pandas**
+
+- **matplotlib**
+
+- **seaborn**
+
+- **scikit-learn**
+
+- **keras**
+
+- **xgboost**
+
 Install these packages using pip if they are not already installed:
 
 bash

@@ -1,6 +1,6 @@
 ## Multilingual Customer Support Ticket Classification
 
-This project focuses on classifying multilingual customer support tickets using various machine learning models. The dataset contains customer support emails in multiple languages, including German, English, Spanish, and French. The objective is to classify these tickets into different departments based on the email content, and prioritize them accordingly. 
+This project focuses on classifying multilingual customer support tickets using various machine learning models. The dataset contains customer support emails in multiple languages, including German, English, Spanish, and French. The objective is to classify these tickets into different departments based on the email content, and prioritize them accordingly.
 
 ## Dataset Overview
 

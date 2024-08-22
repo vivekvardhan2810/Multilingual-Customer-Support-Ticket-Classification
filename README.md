@@ -34,9 +34,9 @@ The project is organized into the following steps:
 
 2. **Data Preprocessing**:
 
-- Text Vectorization: Converting text data into numerical format using techniques like TF-IDF and tokenization.
+- **Text Vectorization**: Converting text data into numerical format using techniques like TF-IDF and tokenization.
 
-- Label Encoding: Encoding the target variable (department) for classification models.
+- **Label Encoding**: Encoding the target variable (department) for classification models.
 
 3. **Model Training and Evaluation**:
 
@@ -56,9 +56,11 @@ Implementing and training the following models:
 
 **Model Evaluation**: Assessing the models using metrics such as accuracy and classification reports.
 
-4. Prediction
-Predicting the department for new customer support tickets using the trained models.
-Generating classification reports to evaluate model performance.
+4. **Prediction**:
+
+- Predicting the department for new customer support tickets using the trained models.
+
+- Generating classification reports to evaluate model performance.
 
 ## Getting Started
 

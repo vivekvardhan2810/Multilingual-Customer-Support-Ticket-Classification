@@ -24,7 +24,7 @@ The dataset provided contains the following fields:
 
 ## Project Workflow
 
-The project is organized into the following steps:
+- The project is organized into the following steps:
 
 1. **Exploratory Data Analysis (EDA)**:
 
@@ -37,6 +37,7 @@ The project is organized into the following steps:
 - **Text Vectorization**: Converting text data into numerical format using techniques like TF-IDF and tokenization.
 
 - **Label Encoding**: Encoding the target variable (department) for classification models.
+
 
 3. **Model Training and Evaluation**:
 
@@ -55,6 +56,7 @@ Implementing and training the following models:
 **SVM**: Support Vector Machine for classification.
 
 **Model Evaluation**: Assessing the models using metrics such as accuracy and classification reports.
+
 
 4. **Prediction**:
 

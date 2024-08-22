@@ -6,14 +6,22 @@ This project focuses on classifying multilingual customer support tickets using 
 
 The dataset provided contains the following fields:
 
-department: The department to which the ticket is assigned.
-priority: The priority level of the ticket.
-software: Whether the issue is related to software.
-hardware: Whether the issue is related to hardware.
-accounting category: The category in accounting.
-language: The language in which the email is written.
-subject: The subject of the email.
-full_email_text: The complete email content.
+- **'department'**: The department to which the ticket is assigned.
+  
+- **'priority'**: The priority level of the ticket.
+
+- **'software'**: Whether the issue is related to software.
+
+- **'hardware'**: Whether the issue is related to hardware.
+
+- **'accounting category'**: The category in accounting.
+
+- **'language'**: The language in which the email is written.
+
+- **'subject'**: The subject of the email.
+
+- **'full_email_text'**: The complete email content.
+
 Project Workflow
 The project is organized into the following steps:
 

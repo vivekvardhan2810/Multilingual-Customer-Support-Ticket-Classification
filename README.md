@@ -41,22 +41,21 @@ The project is organized into the following steps:
 
 3. **Model Training and Evaluation**:
 
-Implementing and training the following models:
+- Implementing and training the following models:
 
-**LSTM**: Long Short-Term Memory neural network, ideal for sequence modeling.
+- **LSTM**: Long Short-Term Memory neural network, ideal for sequence modeling.
 
-**SGD**: Stochastic Gradient Descent classifier.
+- **SGD**: Stochastic Gradient Descent classifier.
 
-**KNN**: K-Nearest Neighbors algorithm.
+- **KNN**: K-Nearest Neighbors algorithm.
 
-**K Means Clustering**: Clustering technique for unsupervised learning.
+- **K Means Clustering**: Clustering technique for unsupervised learning.
 
-**XGBoost**: Extreme Gradient Boosting algorithm, known for high performance.
+- **XGBoost**: Extreme Gradient Boosting algorithm, known for high performance.
 
-**SVM**: Support Vector Machine for classification.
+- **SVM**: Support Vector Machine for classification.
 
-**Model Evaluation**: Assessing the models using metrics such as accuracy and classification reports.
-
+- **Model Evaluation**: Assessing the models using metrics such as accuracy and classification reports.
 
 4. **Prediction**:
 
